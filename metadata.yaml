@@ -1,0 +1,37 @@
+_repo: The-Intellectual-Life_32151
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hamerton, Philip Gilbert
+    alias: Hamerton, P. G. (Philip Gilbert)
+    birthdate: 1834
+    deathdate: 1894
+    gutenberg_agent_id: '2787'
+    url: http://www.gutenberg.org/2009/agents/2787
+    wikipedia: http://en.wikipedia.org/wiki/Philip_Gilbert_Hamerton
+description: This classic exploration of the intellectual life has fully retained
+  its unique value since initial publication in 1904, and it is a distinct satisfaction
+  to present it for the pleasure and edification of discerning readers. No subsequent
+  work fully compares to this rare mixture of personal insight, ethics, taste, psychology,
+  and common sense. Philip Gilbert Hamerton bestowed upon it his long experience as
+  a writer and artist, his enviable breadth of knowledge, and his elegance of literary
+  style. The result is a remarkable work, expressing intimately the mind and personality
+  of the author, yet
+gutenberg_issued: '2010-04-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32151'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Self-culture'
+- !lcsh 'Culture'
+- !lcsh 'Intellectual life'
+- !lcc 'LC'
+title: The Intellectual Life
+url: http://www.gutenberg.org/ebooks/32151
